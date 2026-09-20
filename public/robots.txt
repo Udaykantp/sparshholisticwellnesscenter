@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sparshholisticwellness.com/sitemap.xml

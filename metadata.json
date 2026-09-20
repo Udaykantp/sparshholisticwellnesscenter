@@ -1,0 +1,6 @@
+{
+  "name": "Sparsh Holistic Health & Wellness Center",
+  "description": "Explore holistic health and wellness care with Sparsh. Discover personalized consultations, wellness services, health education and workshops across Ahilyanagar, Nashik, Pune, Delhi, and Mumbai.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
